@@ -1,0 +1,51 @@
+.person {
+  /* display: flex; */
+  margin-left: 120px;
+
+}
+
+.button {
+  height: 83.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #779f7d;
+  border-radius: 15px;
+
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+
+  color: #f5f5f5;
+}
+
+.form {
+  width: 450px;
+  margin-top: 100px;
+margin-left: 220px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #779f7d;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+
+  display: inline-block;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 50px 20px;
+}

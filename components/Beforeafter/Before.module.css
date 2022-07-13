@@ -1,0 +1,67 @@
+.header {
+  justify-content: center;
+  background-color: black;
+  color: white;
+  height: 708px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-family: PlayfairDisplay;
+  font-size: 138px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: right;
+  color: #ffffff;
+}
+
+.before .after {
+  color: #fff;
+}
+
+.hairtrans {
+  height: 51px;
+  display: flex;
+justify-content: center;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  height: 50px;
+  margin: 26px 490px 0;
+  padding: 6.1px 20.9px 5.9px 19.1px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  color: black;
+}
+
+
+
+.image{
+  
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(0, 0, 0);
+}
+.divider {
+  width: 360px;
+  height: 1px;
+  background-color: rgb(160, 157, 68);
+  margin: 74px 368px;
+}
